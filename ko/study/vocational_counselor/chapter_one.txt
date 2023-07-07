@@ -281,7 +281,7 @@
 직업선호도 검사, 로의 분류체계, 흥미평가기법(초성에 맞춰 흥밋거리를 나열)
 [성격 사정]
 홀랜드의 유형: 현실형, 탐구형, 예술형, 사회형, 진취형, 관습형
-마미어스-브릭스 성격유형지표(MBTI)
+마이어스-브릭스 성격유형지표(MBTI, Myers-Briggs Type Indicator)
 : 외향형(E)-내향형(I), 감각형(S)-직관형(N), 사고형(T)-감정형(F), 판단형(J)-인식형(P)
 (Extraversion, Introversion, Sensation, Intuition, Thinking, Feeling, Judging, Perceiving)
 
