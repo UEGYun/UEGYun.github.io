@@ -6,7 +6,8 @@
 
 < iron giant >
 
-< ocho >
+< ocho > = 보석 반지
+즈의부리, 열락의마음, 무의결정, 
 
 < ifrit >
 
