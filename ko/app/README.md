@@ -1,9 +1,9 @@
 << 개인정보 처리방침 링크 >>
-
-< CheckYo >
-https://thenuy.github.io/ko/app/checkyo/privacy_policy/
-https://uegnuy.github.io/ko/app/checkyo/
-
-< NuyDevelopLaboratory >
-https://thenuy.github.io/ko/app/nuydevlab/privacy_policy/
-https://uegnuy.github.io/ko/app/nuydevlab/
+<br>
+<br>< CheckYo >
+<br>https://thenuy.github.io/ko/app/checkyo/privacy_policy/
+<br>https://uegnuy.github.io/ko/app/checkyo/
+<br>
+<br>< NuyDevelopLaboratory >
+<br>https://thenuy.github.io/ko/app/nuydevlab/privacy_policy/
+<br>https://uegnuy.github.io/ko/app/nuydevlab/
