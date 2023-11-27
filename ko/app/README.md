@@ -2,8 +2,6 @@
 <br>
 <br>< CheckYo >
 <br>https://thenuy.github.io/ko/app/checkyo/privacy_policy/
-<br>https://uegnuy.github.io/ko/app/checkyo/
 <br>
 <br>< NuyDevelopLaboratory >
 <br>https://thenuy.github.io/ko/app/nuydevlab/privacy_policy/
-<br>https://uegnuy.github.io/ko/app/nuydevlab/
