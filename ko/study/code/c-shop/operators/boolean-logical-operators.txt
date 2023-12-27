@@ -30,6 +30,6 @@
 [ ^ ] bool a = true ^ (value==0);
 [ && ] bool a = true && (value==0);
 [ || ] bool a = true || (value==0);
-[ bool? ] bool a = true & (value==0) | null;
+[ bool? ] bool? a = true & (value==0) | null;
 
 --------------------------------------------------------------------------------
