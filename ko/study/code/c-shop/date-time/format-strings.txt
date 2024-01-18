@@ -59,3 +59,5 @@ Any other single character => 런타임 FormatException을 throw합니다. => (U
 % => 뒤에 오는 문자를 사용자 지정으로 포멧. (Defines the following character as a custom format specifier.)
 \ => 이스케이프 문자. (The escape character.)
 Any other character => 변환 없이 적은대로 출력. (The character is copied to the result string unchanged.)
+
+https://learn.microsoft.com/en-us/dotnet/api/system.datetime.tostring?view=net-8.0
