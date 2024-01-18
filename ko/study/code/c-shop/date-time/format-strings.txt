@@ -1,20 +1,20 @@
 << standard >>
-"d" => 요일을 제외한 날짜 패턴 출력.
-"D" => 요일을 포함한 날짜 패턴 출력.
-"f" => 날짜 서식 패턴과 분 단위 까지 시간 출력.
-"F" => 날짜 서식 패턴과 초 단위 까지 시간 출력.
-"g" => 날짜 형식과 분 단위 까지 시간 출력.
-"G" => 날짜 형식과 초 단위 까지 시간 출력.
-"m", "M" => 월/일 서식 패턴 출력.
-"o", "O" => 날짜/시간 형식 출력.
-"r", "R" => RFC1123 패턴 출력.
-"m", "M" => 월/일 서식 패턴 출력.
-"s" => 정렬된 날짜/시간 출.
-"t" => 분 단위 까지 시간 패턴 출력.
-"T" => 초 단위 까지 시간 패턴 출력.
-"u" => UTC 정렬된 날짜/시간 형식 출력.
-"U" => UTC 날짜 서식 패턴과 초 단위 까지 시간 출력.
-"y", "Y" => 년/ 서식 패턴 출력.
+"d" => 요일을 제외한 날짜 패턴 출력. => (Short date pattern.)
+"D" => 요일을 포함한 날짜 패턴 출력. => (Long date pattern.)
+"f" => 날짜 서식 패턴과 분 단위 까지 시간 출력. => (Full date/time pattern (short time).)
+"F" => 날짜 서식 패턴과 초 단위 까지 시간 출력. => (Full date/time pattern (long time).)
+"g" => 날짜 형식과 분 단위 까지 시간 출력. => (General date/time pattern (short time).)
+"G" => 날짜 형식과 초 단위 까지 시간 출력. => (General date/time pattern (long time).)
+"m", "M" => 월/일 서식 패턴 출력. => (Month/day pattern.)
+"o", "O" => 날짜/시간 형식 출력. => (round-trip date/time pattern.)
+"r", "R" => RFC1123 패턴 출력. => (RFC1123 pattern.)
+"s" => 정렬된 날짜/시간 출. => (Sortable date/time pattern.)
+"t" => 분 단위 까지 시간 패턴 출력. => (Short time pattern.)
+"T" => 초 단위 까지 시간 패턴 출력. => (Long time pattern.)
+"u" => UTC 정렬된 날짜/시간 형식 출력. => (Universal sortable date/time pattern.)
+"U" => UTC 날짜 서식 패턴과 초 단위 까지 시간 출력. => (Universal full date/time pattern.)
+"y", "Y" => 년/ 서식 패턴 출력. => (Year month pattern.)
+Any other single character => 런타임 FormatException을 throw합니다. => (Unknown specifier.)
 
 
 << custom >>
@@ -55,7 +55,7 @@
 "zzz" => UTC 오프셋의 시간과 분 출력. (Hours and minutes offset from UTC.)
 ":" => 시간 구분 기호 출력. (The time separator.)
 "/" => 날짜 구분 기호 출력. (The date separator.)
-"string" => 리터럴 문자 구분 기호. (Literal string delimiter.)
-"%" => 뒤에 오는 문자를 사용자 지정으로 포멧. (Defines the following character as a custom format specifier.)
-"\" => 이스케이프 문자. (The escape character.)
-"Any other character" => 변환 없이 적은대로 출력. (The character is copied to the result string unchanged.)
+"string", 'string' => 리터럴 문자 구분 기호. (Literal string delimiter.)
+% => 뒤에 오는 문자를 사용자 지정으로 포멧. (Defines the following character as a custom format specifier.)
+\ => 이스케이프 문자. (The escape character.)
+Any other character => 변환 없이 적은대로 출력. (The character is copied to the result string unchanged.)
