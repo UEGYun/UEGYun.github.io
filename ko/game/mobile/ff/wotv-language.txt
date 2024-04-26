@@ -1,3 +1,16 @@
 /
 
-immobilize = 돈무브, 
+Immobilize = (돈무브?), 
+Petrify = 석화, 
+Paralysis = 마비, 
+Disable = 장애(돈액트?), 
+Doom = 죽음, 
+Instant Death = 즉사,
+Charm = 매혹, 
+Confusion = 혼란, 
+Berserk = 광폭, 
+Stop = 멈춤, 
+Sleep = 수면, 
+Silence = 침묵, 
+Frostbite = 동상, 
+Evasion = 회피, 
