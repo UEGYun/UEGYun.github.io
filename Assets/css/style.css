@@ -1,0 +1,272 @@
+/* CSS */
+
+.m-auto{margin: auto;}
+.dp_flex{display: flex;}
+.fill-fit{
+  object-fit: contain;
+  width: -webkit-fill-available;
+  height: -webkit-fill-available;
+}
+
+.box-set-000{border: 1px solid black;}
+.box-set-001{width: 4em; float: left;}
+.box-set-002{width: 2%;}
+.box-set-003{width: 40%;}
+.box-set-011{width: 20%; padding: 0 0.5rem; background-color: lightgray;}
+.box-set-100{height: 30vh; background-color: rgb(180, 220, 180);}
+.box-set-101{width: 20vw; border: 1px solid black;}
+.box-set-102{width: 77%; padding-left: 0.5rem;}
+.box-set-103{width: 77%; height: 30vh; padding-left: 0.5rem;}
+.box-set-104{height: 30vh; padding-left: 0.5rem;}
+.box-set-703{height: 3%;}
+.box-set-800{position: relative; width: 98%; height: 96%; margin: 1%;}
+.box-set-801{position: absolute; left: 1vw; bottom: 1vh;}
+.box-set-900{height: 30vh; background-color: rgb(180, 220, 180);}
+
+.col_black{color: black;}
+.col_gray{color: gray;}
+.col_darkgray{color: darkgray;}
+.col_silver{color: silver;}
+.col_lightgray{color: lightgray;}
+.col_snow{color: snow;}
+.col_white{color: white;}
+.col_ivory{color: ivory;}
+.col_beige{color: beige;}
+.col_khaki{color: khaki;}
+.col_darkkhaki{color: darkkhaki;}
+.col_olive{color: olive;}
+.col_darkolivegreen{color: darkolivegreen;}
+.col_seagreen{color: seagreen;}
+.col_darkgreen{color: darkgreen;}
+.col_green{color: green;}
+.col_lightgreen{color: lightgreen;}
+.col_greenyellow{color: greenyellow;}
+.col_yellowgreen{color: yellowgreen;}
+.col_yellow{color: yellow;}
+.col_gold{color: gold;}
+.col_goldenrod{color: goldenrod;}
+.col_darkgoldenrod{color: darkgoldenrod;}
+.col_darkorange{color: darkorange;}
+.col_orange{color: orange;}
+.col_orangered{color: orangered;}
+.col_tomato{color: tomato;}
+.col_lightcoral{color: lightcoral;}
+.col_salmon{color: salmon;}
+.col_rosybrown{color: rosybrown;}
+.col_brown{color: brown;}
+.col_maroon{color: maroon;}
+.col_darkred{color: darkred;}
+.col_red{color: red;}
+.col_hotpink{color: hotpink;}
+.col_pink{color: pink;}
+.col_plum{color: plum;}
+.col_violet{color: violet;}
+.col_orchid{color: orchid;}
+.col_darkorchid{color: darkorchid;}
+.col_magenta{color: magenta;}
+.col_darkmagenta{color: darkmagenta;}
+.col_purple{color: purple;}
+.col_navy{color: navy;}
+.col_darkblue{color: darkblue;}
+.col_blue{color: blue;}
+.col_royalblue{color: royalblue;}
+.col_cadetblue{color: cadetblue;}
+.col_skyblue{color: skyblue;}
+.col_lightblue{color: lightblue;}
+.col_lightcyan{color: lightcyan;}
+.col_cyan{color: cyan;}
+.col_darkcyan{color: darkcyan;}
+.col_aquamarine{color: aquamarine;}
+.nb-b{border: 1px solid black;}
+
+.nh-p8r{height: 0.8rem;}
+.nw-4r{width: 4rem;}
+.nh-4r{height: 4rem;}
+.nw-10r{width: 10rem;}
+.nw-10-{width: 10%;}
+.nw-80--f00a{width: 80%; flex: 0 0 auto;}
+.nw-96--a{width: 96%; margin: auto;}
+.nw-98--a{width: 98%; margin: auto;}
+.nw-100--a{width: 100%; margin: auto;}
+.nh-100--a{height: 100%; margin: auto;}
+
+.nw-mw{width: 90%; max-width: 1200px;}
+.nwh-br{width: 100px; height: 100px; border-radius: 5px;}
+
+.npl-p3r{padding-left: 0.3rem;}
+.npl-p5r{padding-left: 0.5rem;}
+.npr-p5r{padding-right: 0.5rem;}
+
+.test{
+  margin: auto;
+}
+.nb-al{
+  float: left;
+  flex: 0 0 auto;
+  width: 20%;
+  background-color: rgb(245, 245, 245);
+}
+.nb-f{
+  text-align: center;
+  border: 1px solid rgb(230, 230, 230);
+  background-color: rgb(230, 230, 230);
+}
+.nt-4rem{margin: 0; padding: 0 1rem; font-size: 4rem;}
+.nmb5-tc{margin-bottom: 0.5rem; text-align: center;}
+.ntar-pr-2r{display: block; padding-right: 2rem; text-align: right;}
+
+.box-black{border: 1px solid black; background-color: rgb(230, 230, 230);}
+.box-yellow{border: 1px solid yellow; background-color: black;}
+.box-green{border: 1px solid green; background-color: black;}
+.box-blue{border: 1px solid blue; background-color: black;}
+.box-red{border: 1px solid red; background-color: black;}
+
+.nm-i{margin: initial;}
+.nm-a{margin: auto;}
+.nm-a0{margin: auto 0;}
+.nm-0a{margin: 0 auto;}
+.np-i{padding: initial;}
+.np-a{padding: auto;}
+.np-a0{padding: auto 0;}
+.np-0a{padding: 0 auto;}
+.np-0p8r{padding: 0 0.8rem;}
+
+/* img 나 video 의 크기 조절 설정. */
+.nof-i{object-fit: initial;}
+.nof-ct{object-fit: contain;} /* 비율 유지 후 element 에 맞춤 공백 만듦 */
+.nof-cv{object-fit: cover;} /* 비율 유지 후 element 에 맞춤 넘치면 잘라냄 */
+.nof-f{object-fit: fill;} /* 비율을 무시하고 element 에 맞춤 */
+.nof-sd{object-fit: scale-down;} /* contain 방식에서 원본크기를 넘지 않음*/
+
+/* element 정렬 방식 설정. */
+.nb-wm-i{writing-mode: initial;} 
+.nb-wm-h{writing-mode: horizontal-tb;} /*초기값*/
+.nb-wm-lr{writing-mode: vertical-lr;} /*좌에서 우로*/
+.nb-wm-rl{writing-mode: vertical-rl;} /*우에서 좌로*/
+
+.nb-dp-i{display: initial;}
+/* width, height, margin 등을 설정 가능하고 item's 를 줄 바꿈 하며 정렬.(초기값)*/
+.nb-dp-b{display: block;} /* div, p, h#, li 등의 초기값. */
+/* width, height, margin 등을 설정 불가능하고 item's 를 줄 바꿈 하지 않고 정렬.*/
+.nb-dp-il{display: inline;} /* span, b, i, a 등의 초기값. */
+/* inline 의 속성에서 width, height, padding 등의 설정이 가능해진다. */
+.nb-dp-ilb{display: inline-block;}
+/* item's 의 height 를 container 에 맞추고 width 비율을 자동 맞춤한다. */
+.nb-dp-f{display: flex;}
+/* contaner 안의 item's 의 시작부분을 설정 한다. */
+.nb-dp-fr{display:flow-root;}
+/* flex 의 설정을 갖고 contaner 의 가로 크기를 item's 만큼 으로 맞춘다. */
+.nb-dp-ilf{display: inline-flex;}
+/* item's 를 grid 로 묶는다. */
+.nb-dp-g{display: grid;} /* */
+/* item's 를 table 로 묶는다. */
+.nb-dp-t{display: table;}
+/* teble 로 묶은 item's 를 지정하는 설정. */
+.nb-dp-tc{display: table-cell;}
+
+.ndpf-wbk{display: flex; margin: auto; word-wrap: break-word; word-break: keep-all;}
+
+.nb-gar-a{grid-auto-rows: auto;}
+.nb-gar-mm{grid-auto-rows: minmax(100px, 200px);}
+
+/* flex 안의 item's 의 정렬 방식. */
+.nb-fd-i{flex-direction: initial;}
+.nb-fd-r{flex-direction: row;} /*가로 정렬*/
+.nb-fd-rr{flex-direction: row-reverse;}
+.nb-fd-c{flex-direction: column;} /*세로 정렬*/
+.nb-fd-cr{flex-direction: column-reverse;}
+
+/* property 들을 어떤 방식으로 정렬 할 지 설정. */
+.nb-fw-i{flex-wrap: initial;}
+.nb-fw-nw{flex-wrap: nowrap;}
+.nb-fw-w{flex-wrap: wrap;}
+.nb-fw-wr{flex-wrap: wrap-reverse;}
+
+/* flex-flow 는 flex-direction 과 flex-wrap 의 단축 속성. */
+.nb-ff-i{flex-flow: initial;}
+.nb-ff-rw{flex-flow: row nowrap;} /*초기값*/
+
+/* flex-container 안의 flex-item 들의 공간 비율 설정 */
+.nb-fg-i{flex-grow: initial;}
+.nb-fg-n{flex-grow: 1;}
+.nb-fg-f{flex-grow: 0.1;}
+
+/* flex-container 안의 flex-item 들의 공간 비율 설정 */
+.nb-fs-i{flex-shrink: initial;}
+.nb-fs-one{flex-shrink: 1;}
+.nb-fs-full{flex-shrink: 100%;}
+
+/* flex 는 flex-grow, flex-basis, flex-shrink 의 단축 속성.
+"flex: 1"은 grow 속성, "flex: 1em" 은 basis 속성,
+"flex: 0 1"은 grow + shrink 속성, flex: 0 1px"는 grow + basis 속성,
+"flex: 0 1 auto"는 grow + shrink + basis 속성의 초기값*/
+.nb-f-i{flex: initial;}
+.nb-f-a{flex: auto;}
+
+/* property 들을 어떤 방향으로 정렬 할 지 설정.*/
+.nb-dr-i{direction: initial;}
+.nb-dr-lr{direction: ltr;} /*초기값*/
+.nb-dr-rl{direction: rtl;}
+
+/* property 안의 element 의 배치 위치 설정.*/
+.nb-p-{position: initial;}
+/* top, right, bottom, left, z-index 값의 영향을 받지 않음.(초기값)*/
+.nb-p-{position: static;}
+/* 자신으로부터 top, right, bottom, left 값으로 offset을 설정. */
+.nb-p-{position: relative;} /* 다른 element 는 영향받지 않음 */
+/* parents 로부터 flow는 제거되고, top, right, bottom, left 만큼 배치한다. */
+.nb-p-{position: absolute;} /* 다른 element 나열로부터 뜯어냄*/
+/* parents 는 filter 속성이 none 이 아닐때 flow는 제거되고,
+viewport 를 기준으로 top, right, bottom, left 만큼 배치한다.
+값이 없을경우 모두 중첩시켜 배치한다.*/
+.nb-p-{position: fixed;}
+
+/* inline-block 또는 table-cell box 정렬. */
+.nva-b{vertical-align: baseline;}
+.nva-a{vertical-align: auto;}
+.nva-n{vertical-align: middle;}
+.nva-tb{vertical-align: text-bottom;}
+
+/* property 들의 정렬방식. (한줄짜리 flex-wrap: nowrap 에서는 효과 없다.) */
+.nb-ac-i{align-content: initial;}
+.nb-ac-s{align-content: start;} /*위에서부터 정렬*/
+.nb-ac-c{align-content: center;} /*가운데 정렬*/
+.nb-ac-b{align-content: baseline;} /*parents로부터 정렬*/
+
+/* container 의 box 크기 설정. border-box 또는 content-box 가 있다.*/
+.nb-sz-i{box-sizing: initial;}
+
+/* container 의 잔상 설정. 앞에 inset 이 붙으면 잔상을 container 안쪽으로 그린다. */
+.nb-sd-i{box-shadow: initial;}
+.nb-sd-d{box-shadow: 1px, 1px, grey} /* x y */
+.nb-sd-di{box-shadow: inset 1px, 1px, grey} /* inset x y */
+.nb-sd-db{box-shadow: 1px, 1px, 1px, grey} /* x y blur-radius */
+.nb-sd-dbs{box-shadow: 1px, 1px, 1px, 1px, grey} /* x y blur-radius spread-radius */
+
+/* 'Times New Roman' 같이 둘 이상의 단어가 있는 글꼴 이름은 따옴표로 묶어야한다. */
+.nt-Arial{font-family: Arial, Helvetica, sans-serif;}
+.nt-Georgia{font-family: Georgia, 'Times New Roman', Times, serif;}
+.nt-Verdana{font-family: Verdana, Tahoma, sans-serif;}
+.nt-serif{font-family: serif;}
+.nt-sans-serif{font-family: sans-serif;}
+.nt-monospace{font-family: monospace;}
+
+.nt-wi{word-wrap: initial;}
+.nt-wb{word-break: break-all;}
+/* 블럭에서 넘친 텍스트를 다음줄로 넘긴다. */
+.nt-wbk{word-wrap: break-word; word-break: keep-all;}
+
+/* text 정렬 방식. */
+.nta-l{text-align: start;} /*왼쪽라인으로*/
+.nta-r{text-align: end;}  /*오른쪽라인으로*/
+.nta-c{text-align: center;} /*중앙라인으로*/
+
+/* text 에 색설정 */
+.ntc_black{color: black;}
+.ntc_245{color: rgb(245, 245, 245);}
+.ntc_220{color: rgb(220, 220, 220);}
+
+/* text 에 잔상 설정 */
+.nts-i{text-shadow: initial;}
+.nts-b{text-shadow: black 0 1px;}
+.nts-mix{text-shadow: 1px 1px 2px black, 0 0 1em blue;}
