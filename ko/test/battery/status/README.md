@@ -1,5 +1,6 @@
 # Battery Status
 <br>[ storeName ] [ batteryName ]
+<br>
 <br>No. mAh (Auto, DSG, CHG) / mWh (Auto, DSG, CHG) / mR / time(DSG-CHG) / Volt
 <br>
 <br>01.  0000, 0000, 0000 / 0000, 0000, 0000 / 00-00 / 0:00-0:00 / 3.00-4.99
