@@ -6,4 +6,4 @@
 <br>https://gpcnuy.github.io/checkyo/privacy-policy
 <hr>
 <br>[ Google Link ]
-<br>https://play.google.com/store/apps/details?id=com.JioSpace.JioChecker&pli=1
+<br>https://play.google.com/store/apps/details?id=com.JioSpace.JioChecker
