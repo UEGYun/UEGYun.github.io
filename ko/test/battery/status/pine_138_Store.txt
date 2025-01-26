@@ -1,4 +1,4 @@
-[ storeName ] [ batteryName ]
+[ Pine 138 Store ] [ batteryName ]
 
 No. mAh (Auto, DSG, CHG) / mWh (Auto, DSG, CHG) / mR / time(DSG / CHG) / Volt
 
