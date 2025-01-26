@@ -1,4 +1,4 @@
-<br>[ Preferred Recommendation - Quality Lithium Battery ] [ NCR18650BD ]
+<br>[ Preferred Recommendation-Quality Lithium Battery ] [ NCR18650BD ]
 <br>
 <br>No. mAh (Auto, DSG, CHG) / mWh (Auto, DSG, CHG) / mR / time(DSG / CHG) / Volt
 <br>
