@@ -1,4 +1,4 @@
-[ Pine 138 Store ] [ batteryName ]
+[ pine 138 Store ] [ NCR18650BD ]
 
 No. mAh (Auto, DSG, CHG) / mWh (Auto, DSG, CHG) / mR / time(DSG / CHG) / Volt
 
