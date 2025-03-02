@@ -1,4 +1,4 @@
-[ 글로벌 배터리 공급업체 스토어 ] [ NCR18650BD (아이모모다) ]
+[ 글로벌 배터리 공급업체 스토어 ] [ NCR18650BD (아이모모다) - JXCJ01 ]
 
 No. mAh (Auto, DSG, CHG) / mWh (Auto, DSG, CHG) / mR / time(DSG / CHG) / Volt
 
