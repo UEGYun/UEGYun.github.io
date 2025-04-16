@@ -7,7 +7,7 @@ nuy of respond to google
 <br>
 <br>https://uegnuy.github.io/ko/profile/
 <br>
-<br>https://uegnuy.github.io/ko/real-estate/
+<br>https://uegnuy.github.io/ko/link/real-estate/
 <br>
 <br>https://uegnuy.github.io/ko/study/
 <br>
