@@ -17,7 +17,7 @@
 <br>"r", "R" => RFC1123 패턴 출력. => (RFC1123 pattern.)
 <br>Any other single character => 런타임 FormatException을 throw합니다. => (Unknown specifier.)
 <br><hr>
-<br>[ custom ]
+[ custom ]
 <br>"g", "gg" => 서기 또는 연대. => (The period or era.)
 <br>"y" => 두자리 까지만 표시 방식의 연도 출력. => (The year, from 0 to 99.)
 <br>"yy" =>  두자리 까지만 표시 방식의 앞 0포함 연도 출력. => (The year, from 00 to 99.)
@@ -61,4 +61,4 @@
 <br>Any other character => 변환 없이 적은대로 출력. (The character is copied to the result string unchanged.)
 <br>
 <br>https://learn.microsoft.com/en-us/dotnet/api/system.datetime.tostring?view=net-8.0
-<br><br>
+<br><hr>
