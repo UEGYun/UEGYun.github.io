@@ -1,4 +1,0 @@
-integers
-real numbers
-letter
-mark
