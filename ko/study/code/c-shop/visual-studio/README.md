@@ -1,5 +1,5 @@
 # Visual Studio
-<br>[ .NET/.NET Core ]
+[ .NET/.NET Core ]
 <br>Version == Visual Studio 2022 SDK(C#) == Runtime(Windows) == 지원 종료
 <br>.NET 10.0 == v10.0.100-preview.4 == v10.0.0-preview.4 ==
 <br>.NET 9.0 == v9.0.300 == v9.0.5 == 2026.05.12
