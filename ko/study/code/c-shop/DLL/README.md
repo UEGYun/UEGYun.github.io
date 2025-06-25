@@ -5,6 +5,7 @@
 <br>---public int value = default;
 <br>---public int Set(int set) { Value = set; return Value; }
 <br>---//return 값은 set 값으로 출력 되지만 Value가 변경되지 않고 항상 default 상태.
+<br>---//해결책[ struct를 class로 바꾸면 된다. 이유는 모름. ]
 <br>}
 <br>=> Unloading broken assembly Assets/---/---/MyDLL.dll, this assembly can cause crashes in the runtime
 <br>public struct Sample {
