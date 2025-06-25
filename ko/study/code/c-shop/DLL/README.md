@@ -12,7 +12,7 @@
 <br>public struct Sample {
 <br>---public int Value { get; private set; }
 <br>}
-<br>
+<br>=>이렇게 사용하면 에러가 발생한다.
 <br>
 <br>
 <br>
