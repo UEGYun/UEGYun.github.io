@@ -1,4 +1,4 @@
-# Dynamic Link Library
+# Dynamic Link Library (DLL)
 [ ERRER's ]
 <br>public struct Sample {
 <br>---public int value = default;
