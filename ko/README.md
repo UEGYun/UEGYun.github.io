@@ -21,8 +21,13 @@ nuy of respond to google
 <br>
 <br>https://uegyun.github.io/ko/test/battery/
 <br>
-<br>Storage of gpcNuy
+<br>[ Storage of gpcNuy ]
 <br>https://gpcnuy.github.io/ko/link/temp/
 <br>
-<br>Orther Source
+<br>[ Orther Source ]
 <br>무설치 뷰어 https://allinpdf.com/kr/hwp-viewer
+<br>
+<br>[ cell-datasheet ]
+<br>https://www.alldatasheet.net/ (https://www.alldatasheet.co.kr/)
+<br>https://secondlifestorage.com/index.php?pages/cell-database/
+<br><hr>
