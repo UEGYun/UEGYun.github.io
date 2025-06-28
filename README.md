@@ -15,7 +15,7 @@
 <br>https://adsense.google.com/adsense/u/1/pub-9284100516320364/
 <br>
 <br>[ Google Search Console ]
-<br>https://search.google.com/u/1/
+<br>https://search.google.com/u/1/search-console
 <br>
 <br>[ link of home ]
 <br>https://gpcnuy.github.io/checkyo/
