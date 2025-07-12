@@ -1,5 +1,5 @@
 # Dynamic Link Library (DLL)
-[ ERRER's ]
+[[ ERRER's ]]
 <br>public struct Sample {
 <br>---public int value = default;
 <br>---public int Set(int set) { Value = set; return Value; }
