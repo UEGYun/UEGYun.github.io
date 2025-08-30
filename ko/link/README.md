@@ -1,7 +1,3 @@
-# Links
-<br>
-<br><hr>
-
 Use Mail's
 ==========
 - [ bs*****r@gmail.com ]
@@ -15,7 +11,7 @@ Use Mail's
 - [ nu****a@gmail.com ]
   
 - [ ueg***@gmail.com ]
-  Github ; tvN ;
+  Github ; tvN ; 유튜브 ;
 - [ uo***y@gmail.com ]
   HILTI korea ;
 - [ ow***y@gmail.com ]
@@ -27,7 +23,7 @@ Use Mail's
 - [ us**********ack@gmail.com ]
   
 - [ gpc********r@gmail.com ]
-  Github ; Unity ; GoPro ; discord ; mtmk ; enjin ;
+  Github ; Unity ; GoPro ; discord ; mtmk ; enjin ; 유튜브 ;
 - [ ky***@naver.com ]
   
 - [ aki*****@naver.com ]
