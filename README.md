@@ -1,7 +1,7 @@
 # User Email Google
 [ Real Estate ]
 <br>https://uegyun.github.io/ko/link/real-estate/
-<br>https://uegyun.github.io/ko/link/real-estate/경기도_여주시_금사면_도곡리_530-31/
+<br>https://uegyun.github.io/ko/link/real-estate/Gyeonggi-do/Yeoju-si/dogok-ri-530-31/
 <br>
 <br>[ gpcNuy ]
 <br>https://github.com/gpcnuy/gpcnuy.github.io/
