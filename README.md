@@ -2,7 +2,8 @@
 [ Real Estate ]
 <br>https://uegyun.github.io/ko/link/real-estate/
 <br>
-<br>https://uegyun.github.io/ko/link/real-estate/Gyeonggi-do/Yeoju-si/dogok-ri-530-31/
+<br>https://uegyun.github.io/ko/link/real-estate/gyeonggi-do/yeoju-si/geumsa-myeon-dogok-ri-530-31/
+<br>https://uegyun.github.io/ko/link/real-estate/chungcheongnam-do/seosan-si/jigok-myeon-daeyo-ri-680-7/
 <br>
 <br>[ gpcNuy ]
 <br>https://github.com/gpcnuy/gpcnuy.github.io/
