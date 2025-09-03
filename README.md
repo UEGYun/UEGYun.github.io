@@ -30,7 +30,7 @@
 <br>https://gpcnuy.github.io/checkyo/
 <br>
 <br>[ link of privacy policy ]
-<br>https://gpcnuy.github.io/checkyo/privacy-policy/
+<br>https://gpcnuy.github.io/privacy-policy/checkyo/
 <br>
 <br>[ Google Link of CheckYo ]
 <br>https://play.google.com/store/apps/details?id=com.JioSpace.JioChecker
