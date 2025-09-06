@@ -11,7 +11,7 @@ Use Mail's
 - [ nu****a@gmail.com ]
   
 - [ ueg***@gmail.com ]
-  Github ; tvN ; 유튜브 ;
+  Github ; tvN ; 유튜브channel ;
 - [ uo***y@gmail.com ]
   HILTI korea ;
 - [ ow***y@gmail.com ]
@@ -21,7 +21,7 @@ Use Mail's
 - [ us*****x@gmail.com ]
   
 - [ us**********ack@gmail.com ]
-  
+  유튜브channel;
 - [ gpc********r@gmail.com ]
   Github ; Unity ; GoPro ; discord ; mtmk ; enjin ; 유튜브 ;
 - [ ky***@naver.com ]
