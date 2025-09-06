@@ -15,7 +15,7 @@ Use Mail's
 - [ uo***y@gmail.com ]
   HILTI korea ;
 - [ ow***y@gmail.com ]
-  
+  유튜브channel ;
 - [ us*****s@gmail.com ]
   RiseOfEros ;
 - [ us*****x@gmail.com ]
