@@ -5,7 +5,7 @@ eovyun[40-리새]
 user00bs[40-유나 /파던2 39-아야 1-이야]
 user00nx[43-미리 /파던3 55-염대표]
 bs00user[46-마나 55-공용]
-userisbluestack[39-아이 1-이미 1-유니]
+userisbluestack[40-아이 1-이미 1-유니]
 niuyoon[46-미지 55-한사장부계정]
 nuyarea[43-로나 55-한사장]
 
